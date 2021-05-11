@@ -1,6 +1,9 @@
 ### "hello world!\n"
 # 서린
+동의대학교 1학년 늒네..
 
-**surrin1008/surrin1008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
+# 배우고 있는 언어..
+C (학습중..) <br>
+JAVA (학습중..) <br>
+Python (대기..) <br>
+Kotlin (예정..) <br>
