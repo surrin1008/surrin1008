@@ -4,6 +4,6 @@
 
 # 배우고 있는 언어..
 C (학습중..) <br>
-JAVA (학습중..) <br>
-Python (대기..) <br>
+JAVA (일시정지..) <br>
+Python (학습중..) <br>
 Kotlin (예정..) <br>
