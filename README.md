@@ -35,8 +35,8 @@
 | 10.09 | ICPC 참가 |  |
 | 09.20 ~ 11.21 | 1학년 2학기 전공튜터링 진행(튜티) | [수료증](https://github.com/surrin1008/surrin1008/blob/main/image/2021-2%ED%95%99%EA%B8%B0%20%EC%A0%84%EA%B3%B5%ED%8A%9C%ED%84%B0%EB%A7%81.pdf) |
 | 08.02 ~ 08.27 | 파이썬 기반 인공지능(SLP) 기본 교육 | [수료증](https://github.com/surrin1008/surrin1008/blob/main/image/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EA%B8%B0%EB%B0%98%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5(SLP)%20%EA%B8%B0%EB%B3%B8%20%EA%B5%90%EC%9C%A1.pdf) |
-| 08.01 ~ 08.31 | DoD 봉사동아리 - 4차산업혁명 교육영상 제작 | 제작영상 |
-| 07.20 ~ 07.23 | DoD 봉사동아리 - 부곡여자중학교 교육봉사 | 활동영상 |
+| 08.01 ~ 08.31 | DoD 봉사동아리 - 4차산업혁명 교육영상 제작 | [제작영상](https://youtube.com/playlist?list=PL_EUs7v9rr-q252fzBNTqPsU5ADrj1PKJ) |
+| 07.20 ~ 07.23 | DoD 봉사동아리 - 부곡여자중학교 교육봉사 | [활동영상](https://youtu.be/kM74zNLaopc) |
 | 05.22 ~ 05.30 | [LINC+사업] 「학문전환교육」 데이터사이언티스트 교육-데이터 프로그래밍 과정 | [자격증]() [수료증](https://github.com/surrin1008/surrin1008/blob/main/image/%5BLINC%2B%EC%82%AC%EC%97%85%5D%20%E3%80%8C%ED%95%99%EB%AC%B8%EC%A0%84%ED%99%98%EA%B5%90%EC%9C%A1%E3%80%8D%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%82%AC%EC%9D%B4%EC%96%B8%ED%8B%B0%EC%8A%A4%ED%8A%B8%20%EA%B5%90%EC%9C%A1-%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EA%B3%BC%EC%A0%95.pdf) |
 | 04.05 ~ 06.08 | 1학년 1학기 전공튜터링 진행(튜티) | [수료증](https://github.com/surrin1008/surrin1008/blob/main/image/2021-1%ED%95%99%EA%B8%B0%20%EC%A0%84%EA%B3%B5%ED%8A%9C%ED%84%B0%EB%A7%81.pdf) |
 | 03.01 ~ | 동의대학교 창의소프트웨어공학부 입학 🧑‍🎓 |  |
