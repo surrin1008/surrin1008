@@ -1,9 +1,6 @@
-### "hello world!\n"
-# 서린
-동의대학교 1학년 늒네..
 
-# 배우고 있는 언어..
-C (학습중..) <br>
-JAVA (일시정지..) <br>
-Python (학습중..) <br>
-Unity (학습중..) <br>
+<div align="center">
+	
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=320&section=header&text=surrin1008&fontSize=80)
+
+<br>
