@@ -25,16 +25,15 @@
 | 04.05 ~ |2학기 전공튜터링 진행(튜티) |  |
 |  | ▲ 진행중.. ▲ |  |
 | 10.08 | ICPC 참가 |  |
-| 08.23 ~ 08.25 | SW 테스트 경진대회 본선 참가 |  |
-| 08.01 ~ 08.04 | 여름방학 동행봉사단 동현중 참가 | 활동영상 |
-| 06.21 ~ 06.22 | 크라우드 테스팅대회 예선 통과 | 참가사진 |
-| 05.02 ~ | 2022학년도 동행봉사단[학과(전공)연계 프로그램] 진행 |  |
+| 08.23 ~ 08.25 | SW 테스트 경진대회 본선 참가 | [참가사진](https://github.com/surrin1008/surrin1008/tree/main/image/SW%20%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C%20%EB%B3%B8%EC%84%A0)  |
+| 08.01 ~ 08.04 | 여름방학 동행봉사단 동현중 참가 | [활동영상](https://github.com/surrin1008/surrin1008/tree/main/image/%EB%8F%99%ED%98%84%EC%A4%91%ED%95%99%EA%B5%90%20%EB%B4%89%EC%82%AC%ED%99%9C%EB%8F%99) |
+| 06.21 ~ 06.22 | 크라우드 테스팅대회 예선 통과 | [수상결과](https://github.com/surrin1008/surrin1008/blob/main/image/%ED%81%AC%EB%9D%BC%EC%9A%B0%EB%93%9C%20%ED%85%8C%EC%8A%A4%ED%8C%85%20%EC%98%88%EC%84%A0%20%EA%B2%B0%EA%B3%BC%EB%AC%BC.jpeg) |
 | 04.04 ~ 06.05 |1학기 전공튜터링 진행(튜터)(1학년대상) | [수료증](https://github.com/surrin1008/surrin1008/blob/main/image/2022-1%ED%95%99%EA%B8%B0%20%EC%A0%84%EA%B3%B5%ED%8A%9C%ED%84%B0%EB%A7%81.pdf) |
 | 04.04 ~ 06.15 |전공 Buff 프로그램_C를 이용한 코딩 스킬 향상 기법 | [수료증](https://github.com/surrin1008/surrin1008/blob/main/image/2022-1%ED%95%99%EA%B8%B0%20%EC%A0%84%EA%B3%B5%20Buff%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8.pdf)|
 | **🚩 2022** | ▲ 대학교 2학년 ▲ |  |
 | 01.24 ~ 02.25 | 텐서플로를 활용한 인공지능 응용교육 | [수료증](https://github.com/surrin1008/surrin1008/blob/main/image/%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%20%EC%9D%91%EC%9A%A9%EA%B5%90%EC%9C%A1.pdf) |
 | 11.06 ~ 11.27 | [LINC+사업] AI 클러스터(자율운항선박-MSAC과정) 교육 | [수료증](https://github.com/surrin1008/surrin1008/blob/main/image/%5BLINC%2B%EC%82%AC%EC%97%85%5D%20AI%20%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0(%EC%9E%90%EC%9C%A8%EC%9A%B4%ED%95%AD%EC%84%A0%EB%B0%95-MSAC%EA%B3%BC%EC%A0%95)%20%EA%B5%90%EC%9C%A1.pdf) |
-| 10.09 | ICPC 참가 |  |
+| 10.09 | ICPC 참가 | [참가사진](https://github.com/surrin1008/surrin1008/blob/main/image/2021-ICPC.jpg) |
 | 09.20 ~ 11.21 | 1학년 2학기 전공튜터링 진행(튜티) | [수료증](https://github.com/surrin1008/surrin1008/blob/main/image/2021-2%ED%95%99%EA%B8%B0%20%EC%A0%84%EA%B3%B5%ED%8A%9C%ED%84%B0%EB%A7%81.pdf) |
 | 08.02 ~ 08.27 | 파이썬 기반 인공지능(SLP) 기본 교육 | [수료증](https://github.com/surrin1008/surrin1008/blob/main/image/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EA%B8%B0%EB%B0%98%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5(SLP)%20%EA%B8%B0%EB%B3%B8%20%EA%B5%90%EC%9C%A1.pdf) |
 | 08.01 ~ 08.31 | DoD 봉사동아리 - 4차산업혁명 교육영상 제작 | [제작영상](https://youtube.com/playlist?list=PL_EUs7v9rr-q252fzBNTqPsU5ADrj1PKJ) |
