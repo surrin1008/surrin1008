@@ -5,6 +5,8 @@
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=surrin1008&show_icons=true&theme=tokyonight)
 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surrin1008&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
   #* 할말 *
   <br>
   <br>
