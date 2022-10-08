@@ -7,10 +7,9 @@
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surrin1008&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-  #* 할말 *
-  <br>
-  <br>
-  <br>
+프론트엔드 백엔드를 비롯한 여러 분야들을 건드려가며  
+어떠한 분야가 나에게 맞는지 찾아가는 코딩뉴비입니다.
+<br>
 <hr>
 <br>
 
@@ -43,6 +42,13 @@
 | 03.01 ~ | 동의대학교 창의소프트웨어공학부 입학 🧑‍🎓 |  |
 | **🚩 2021** | ▲ 대학교 1학년 ▲ |  |
 
-  <br>
-  <br>
+<br>
+<br>
+<hr>
 
+## 배우고 있는 언어 또는 기술..
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
+
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  
+Unity, React
